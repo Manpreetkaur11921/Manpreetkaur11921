@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manpreetkaur11921
-- 👀 I’m interested in software development 
+- 👀 I’m interested in Computer software development, web development and database development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me = dhillonmanpreet704@gmail.com 
